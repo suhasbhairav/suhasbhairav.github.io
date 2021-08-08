@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a779e53.chunk.css",
+    "main.js": "/static/js/main.91864f93.chunk.js",
+    "main.js.map": "/static/js/main.91864f93.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/css/2.da1eef19.chunk.css": "/static/css/2.da1eef19.chunk.css",
+    "static/js/2.99474ebf.chunk.js": "/static/js/2.99474ebf.chunk.js",
+    "static/js/2.99474ebf.chunk.js.map": "/static/js/2.99474ebf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.6a779e53.chunk.css.map": "/static/css/main.6a779e53.chunk.css.map",
+    "static/js/2.99474ebf.chunk.js.LICENSE.txt": "/static/js/2.99474ebf.chunk.js.LICENSE.txt",
+    "static/media/amazon.f4e81e4a.PNG": "/static/media/amazon.f4e81e4a.PNG",
+    "static/media/covid.69c6866b.PNG": "/static/media/covid.69c6866b.PNG",
+    "static/media/suhas.c0b7a016.jpg": "/static/media/suhas.c0b7a016.jpg",
+    "static/media/twitter.202f17fa.PNG": "/static/media/twitter.202f17fa.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.99474ebf.chunk.js",
+    "static/css/main.6a779e53.chunk.css",
+    "static/js/main.91864f93.chunk.js"
+  ]
+}
